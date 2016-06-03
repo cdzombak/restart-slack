@@ -9,8 +9,15 @@
 		<string>/usr/bin/osascript</string>
 		<string>/Users/cdzombak/Applications/Restart Slack if Not Frontmost.scpt</string>
 	</array>
+	<key>StartCalendarInterval</key>
+	<dict>
+		<key>Hour</key>
+		<integer>0</integer>
+		<key>Minute</key>
+		<integer>0</integer>
+	</dict>
 	<key>StartInterval</key>
-	<integer>2700</integer>
+	<integer>6000</integer>
 </dict>
 </plist>
 
