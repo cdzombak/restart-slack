@@ -17,7 +17,7 @@
 		<integer>0</integer>
 	</dict>
 	<key>StartInterval</key>
-	<integer>6000</integer>
+	<integer>7200</integer>
 </dict>
 </plist>
 
