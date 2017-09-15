@@ -1,3 +1,9 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+**I no longer maintain this software. It might still be useful for you, but I can't provide help for it.**
+
+---
+
 # restart-slack
 
 This collection of components for OS X allows you to automatically and unobstrusively restart Slack periodically.
